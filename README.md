@@ -1,11 +1,11 @@
-# TFM_UOC: Aplicación web para la priorización de variantes
+# TFM_UOC: Herramienta web para la priorización de variantes de tipo INDEL y SNV obtenidas mediante NGS
 
 Para el uso de la aplicación web, es necesario descargarla. 
 Se necesita tener R y RStudio instalado.
 
 Una vez descargada, abrir el archivo con RStudio, en la parte superior derecha del editor de código hay un botón llamado "Run App", clicar en él y comprobar que se ejecuta en el navegador, con el fin de asegurar el buen funcionamiento de los botones de exportación de los parámetros de priorización y de los resultados obtenidos después de la priorización.
 
-# TFM_UOC: Web aplication for variant priorization .
+# TFM_UOC: Web aplication for variant priorization.
 
 If you want to use this aplication, you will have to download it.
 Is necessary to have R y RStudio.
